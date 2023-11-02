@@ -1,0 +1,15 @@
+
+.button {
+    background-color: blue;
+    color: white;
+    padding: 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+
+    
+  }
+  button:hover{
+   background-color: aquamarine;
+   color: black;
+  }
